@@ -1,0 +1,7 @@
+QLabel {
+    font-size: 72px;
+    qproperty-alignment: AlignCenter;
+    color: blue;
+    background-color: rgb(247, 150, 70);
+    }
+
